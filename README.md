@@ -10,12 +10,21 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="teaser.png" alt="Teaser image" width="80%">
+</p>
+
+
 ## 🧠 About
 
 **RefChartQA** is a large-scale benchmark for **visual grounding in chart-based question answering**. It extends the ChartQA and TinyChart-PoT datasets by adding explicit bounding box annotations that link each answer to supporting visual elements in the chart. RefChartQA contains **73,702 annotated samples**, including:
 - **55,789** training,
 - **6,223** validation,
 - **11,690** testing instances.
+
+<p align="center">
+  <img src="datasetsamples.png" alt="Teaser image" width="80%">
+</p>
 
 ## ✅ To-Do
 
