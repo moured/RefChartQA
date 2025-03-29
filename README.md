@@ -1,4 +1,15 @@
 <h1 align="center">📊 RefChartQA: Grounding Visual Answer on Chart Images</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alevogel/"><strong>Alexander Vogel</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/omar-moured/"><strong>Omar Moured</strong></a>
+  ·
+  <a href="https://scholar.google.com/citations?user=nG2ebe8AAAAJ&hl=en"><strong>Yufan Chen</strong></a>
+  ·
+  <a href="https://jamycheung.github.io/"><strong>Jiaming Zhang</strong></a>
+  ·
+  <a href="https://cvhci.iar.kit.edu/"><strong>Rainer Stiefelhagen</strong></a>
+</p>
 
 <p align="center">
   <a href="https://huggingface.co/datasets/omoured/RefChartQA">
