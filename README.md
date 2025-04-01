@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface" alt="Hugging Face">
   </a>
   &nbsp;
-  <a href="https://arxiv.org/abs/your_paper_id_here">
+  <a href="https://arxiv.org/abs/2503.23131">
     <img src="https://img.shields.io/badge/Paper-ArXiv-blue?logo=arxiv" alt="Paper">
   </a>
 </p>
@@ -67,4 +67,13 @@ print(dataset["train"][0])
 
 ## 📚 Citation
 ```bibtex
-@misc{x}
+@misc{vogel2025refchartqagroundingvisualanswer,
+      title={RefChartQA: Grounding Visual Answer on Chart Images through Instruction Tuning}, 
+      author={Alexander Vogel and Omar Moured and Yufan Chen and Jiaming Zhang and Rainer Stiefelhagen},
+      year={2025},
+      eprint={2503.23131},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.23131}, 
+}
+```
