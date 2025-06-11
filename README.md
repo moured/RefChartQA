@@ -25,7 +25,7 @@
   <img src="teaser.png" alt="Teaser image" width="80%">
 </p>
 
-
+### Our paper is accepted at ICDAR 2025 ! 
 ## 🧠 About
 
 **RefChartQA** is a large-scale benchmark for **visual grounding in chart-based question answering**. It extends the ChartQA and TinyChart-PoT datasets by adding explicit bounding box annotations that link each answer to supporting visual elements in the chart. RefChartQA contains **73,702 annotated samples**, including:
