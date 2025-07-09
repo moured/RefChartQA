@@ -40,7 +40,7 @@
 ## ✅ To-Do
 
 - [x] [March 28, 2025] Upload dataset to Hugging Face 🤗  
-- [ ] Release evaluation scripts.
+- [x] [July 09, 2025] Released evaluation scripts.
 - [ ] Add visualization tools for bounding box inspection.
 
 ## 🛠️ Usage
@@ -63,6 +63,12 @@ dataset = load_dataset("omoured/RefChartQA")
 # Print dataset splits and one example
 print(dataset)
 print(dataset["train"][0])
+```
+
+### Evaluation Script
+*Note: in the `evaluation` folder, you can find an example `"filtered_results.jsonl"` file showing the appropriate format.*
+```
+python evaluate.py --result_file filtered_results.jsonl
 ```
 
 ## 📚 Citation
