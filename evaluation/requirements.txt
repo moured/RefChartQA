@@ -1,0 +1,5 @@
+torch
+torchmetrics[detection]
+pillow
+pandas
+datasets
